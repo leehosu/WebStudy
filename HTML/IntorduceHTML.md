@@ -18,3 +18,9 @@
 ### 3. [ 🎈 Icon in header](https://github.com/leehosu/WebStudy/blob/master/HTML/header/Icon_Header.md)
 
 ### 4. [ 🎨 CSS, JS in header](https://github.com/leehosu/WebStudy/blob/master/HTML/header/Design_Header.md)
+
+# 🥁 Text Fundamental
+
+### 1. [ ✏ HTML Text Funamental](https://github.com/leehosu/WebStudy/blob/master/HTML/text/HTML_Text.md)
+
+### 2. [ 📚 HTML Text Lists](https://github.com/leehosu/WebStudy/blob/master/HTML/text/HTML_Lists.md)
