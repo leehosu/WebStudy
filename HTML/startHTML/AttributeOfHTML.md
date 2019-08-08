@@ -1,6 +1,6 @@
 # 🌡 Attribute of HTML
 
-![AttributeHTML](../image/html/AttributeHTML.png)
+![AttributeHTML](../../image/html/AttributeHTML.png)
 
 - 요소는 위의 이미지와 같이 속성을 가질 수 있다.
 - 속성은 요소에 실제론 나타내고 싶지 않지만 추가적인 내용을 담고 싶을때 사용한다.

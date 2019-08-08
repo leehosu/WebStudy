@@ -1,7 +1,7 @@
 # 🚀 Structure of HTML Element
 <br>
 
-![tagElement](../image/html/tagElement.png)
+![tagElement](../../image/html/tagElement.png)
 
 - element의 주요 부분은 다음과 같다.
 

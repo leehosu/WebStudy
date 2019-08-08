@@ -6,4 +6,4 @@
 - 기본적인 HTML과 CSS, ES6를 공부함으로써 웹에 대한 전반적이고 기초적인 내용을 습득하는데에 목적이 있습니다.
 ---
 
-## [HTML](https://github.com/leehosu/WebStudy/blob/master/HTML/IntorduceHTML.md) 
+## [HTML Start](https://github.com/leehosu/WebStudy/blob/master/HTML/IntorduceHTML.md) 
