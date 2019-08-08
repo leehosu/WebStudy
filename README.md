@@ -1,2 +1,2 @@
 # WebStudy
-:seedling web study of html, css, es6
+:seedling: web study of html, css, es6
