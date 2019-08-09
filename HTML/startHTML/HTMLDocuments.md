@@ -14,6 +14,8 @@
   </body>
 </html>
 ```
+![HTML_templete](../../image/html/html_template.png)
+
 
 1. `<!DOCTYPE html>` :  문서 형식을 나타낸다. 
 2. `<html></html>` : <html> 요소이며 전체 페이지의 내용이다.
