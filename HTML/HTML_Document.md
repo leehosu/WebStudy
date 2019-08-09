@@ -41,7 +41,7 @@
 
 ### 1.[ ⌨ HTML Form](https://github.com/leehosu/WebStudy/blob/master/HTML/form/HTML_form.md)
 
-### 2.[ 🥋 HTML Form type](https://github.com/leehosu/WebStudy/blob/master/HTML/form/HTML_form.md)
+### 2.[ 🥋 HTML Form type](https://github.com/leehosu/WebStudy/blob/master/HTML/form/HTML_form_type.md)
 
 ### 3.[ 👕 HTML Form Attribute](https://github.com/leehosu/WebStudy/blob/master/HTML/form/HTML_form_attribute.md)
 
