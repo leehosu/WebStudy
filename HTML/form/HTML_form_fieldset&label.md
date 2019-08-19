@@ -22,3 +22,17 @@
     <button type="button">로그인</button>
   </fieldset>
 </form>
+
+## Label Element
+- label element는 사용자가 input text, checkbox, radio button 등을 좀더 쉽게 선택 할 수 있도록 도와준다.
+- label 요소를 클릭하면 input text의 경우에는 자동으로 focus가 이동하고 checkbox, radio button의 경우는 자동으로 선택된다.
+- label의 for 속성의 이름과 form 요소의 id 값이 일치해야한다.
+
+```html
+<label for="html">HTML</label> <input type="checkbox" name="html" id="html">
+<label for="css">CSS</label> <input type="checkbox" name="css" id="css">
+```
+
+<label for="html">HTML</label> <input type="checkbox" name="html" id="html">
+<label for="css">CSS</label> <input type="checkbox" name="css" id="css">
+
