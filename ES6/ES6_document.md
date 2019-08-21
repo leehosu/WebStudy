@@ -12,5 +12,5 @@
 
 #### [Destructuring](https://github.com/leehosu/WebStudy/blob/master/ES6/grammer/Destructuring.md)
 
-#### [Default + Reset + Spread](https://github.com/leehosu/WebStudy/blob/master/ES6/grammer/DRS.md)
+#### [Default + Reset + Spread](https://github.com/leehosu/WebStudy/blob/master/ES6/grammer/DFS.md)
 
