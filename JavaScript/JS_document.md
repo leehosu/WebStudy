@@ -8,7 +8,7 @@
 ## Basic
 - [JS_Browser](https://github.com/leehosu/WebStudy/blob/master/JavaScript/basic/JS_Browser.md)
 - [JS_Object](https://github.com/leehosu/WebStudy/blob/master/JavaScript/basic/JS_Object.md)
-- [JS_DomContentLoad](https://github.com/leehosu/WebStudy/blob/master/JavaScript/basic/JS_DomContentLoad.md)
+- [JS_Dom ContentLoad](https://github.com/leehosu/WebStudy/blob/master/JavaScript/basic/JS_DomContentLoad.md)
 - [JS_Variable](https://github.com/leehosu/WebStudy/blob/master/JavaScript/basic/JS_Variable.md)
 - [JS_Clouser](https://github.com/leehosu/WebStudy/blob/master/JavaScript/basic/JS_Clouser.md)
 - [JS_Exception](https://github.com/leehosu/WebStudy/blob/master/JavaScript/basic/JS_Exception.md)
@@ -17,6 +17,12 @@
 - [JS_Storage](https://github.com/leehosu/WebStudy/blob/master/JavaScript/basic/JS_Storage.md)
 
 ## Middle Class
-- [JS_GlobalObject](https://github.com/leehosu/WebStudy/blob/master/JavaScript/Middle/JS_GlobalObject.md)
+- [JS_Global Object](https://github.com/leehosu/WebStudy/blob/master/JavaScript/Middle/JS_GlobalObject.md)
 
-- [JS_CheckDataType](https://github.com/leehosu/WebStudy/blob/master/JavaScript/Middle/JS_CheckDataType.md)
+- [JS_Check Data Type](https://github.com/leehosu/WebStudy/blob/master/JavaScript/Middle/JS_CheckDataType.md)
+
+- [JS_Transfer to DataType](https://github.com/leehosu/WebStudy/blob/master/JavaScript/Middle/JS_TransferDataType.md)
+
+- [JS_Trim](https://github.com/leehosu/WebStudy/blob/master/JavaScript/Middle/JS_Trim.md)
+
+- [JS_Truncate String](https://github.com/leehosu/WebStudy/blob/master/JavaScript/Middle/JS_TruncateString.md)
