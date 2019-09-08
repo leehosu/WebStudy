@@ -2,7 +2,7 @@
 
 ---
 - [초보자를 위한 JavaScript 200제]를 통해 공부한 내용을 기술하는 MarkDown이다.
-- 자바스크립트란 ? 동적으로 컨텐츠를 바꾸고, 멀티미디어를 다루고, 움직이는 이미지등 웹 페이지를 꾸며주도록 하는 프로그래밍 언어이다.
+- 자바스크립트란 ? 동적으로  컨텐츠를 바꾸고, 멀티미디어를 다루고, 움직이는 이미지등 웹 페이지를 꾸며주도록 하는 프로그래밍 언어이다.
 ---
 
 ## Basic
@@ -17,3 +17,6 @@
 - [JS_Storage](https://github.com/leehosu/WebStudy/blob/master/JavaScript/basic/JS_Storage.md)
 
 ## Middle Class
+- [JS_GlobalObject](https://github.com/leehosu/WebStudy/blob/master/JavaScript/Middle/JS_GlobalObject.md)
+
+- [JS_CheckDataType](https://github.com/leehosu/WebStudy/blob/master/JavaScript/Middle/JS_CheckDataType.md)
