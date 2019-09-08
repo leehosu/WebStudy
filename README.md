@@ -13,3 +13,5 @@
 ## [CSS](https://github.com/leehosu/WebStudy/blob/master/CSS/CSS_document.md)
 
 ## [ES6](https://github.com/leehosu/WebStudy/blob/master/ES6/ES6_document.md)
+
+## [JavaScript](https://github.com/leehosu/WebStudy/blob/master/JavaScript/JS_document.md)
