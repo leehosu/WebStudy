@@ -40,7 +40,7 @@ finish
 - 실제 함수와 변수 같은 식별자와 그 식별자가 가리키는 값은 키(key)와 값의 쌍으로 환경 레코드에 기록됩니다. 
 - 렉시컬 환경 레코드 외에 자신의 실행 환경을 감싸는 외부 실행 환경에 대한 참조를 가지고 있습니다.
 
-![lexical](./image/lexicalEnvrionment.jpg)
+![lexical](../image/lexicalEnvrionment.jpg)
 
 - 각 실행 컨텍스트는 outerLexicalEnvironment로 체인처럼 연결되어 있습니다.
 
