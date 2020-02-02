@@ -1,7 +1,5 @@
 # JavaScript 기타 개념
 
----
-
 ## this
 
 - `this`는 모든 함수 스코프내에 자동으로 설정되는 특수한 식별자.
@@ -16,9 +14,9 @@
 
 ## 코드 차이점
 
-`function Person(){}` : 함수 선언문 - 호이스팅
-`var Person = Person()` : 함수 표현식 - 호이스팅 X
-`var Person = new Person()`: 생성자
+`function Person(){}` : 함수 선언문 - 호이스팅 <br />
+`var Person = Person()` : 함수 표현식 - 호이스팅 X <br />
+`var Person = new Person()`: 생성자 <br />
 
 ## 호이스팅
 
