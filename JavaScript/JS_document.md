@@ -30,17 +30,3 @@
 - [JS_Trim](https://github.com/leehosu/WebStudy/blob/master/JavaScript/Middle/JS_Trim.md)
 
 - [JS_Truncate String](https://github.com/leehosu/WebStudy/blob/master/JavaScript/Middle/JS_TruncateString.md)
-
-## Interview
-
-- [ 이벤트 위임 ](https://github.com/leehosu/WebStudy/blob/master/JavaScript/Interview/JS_EventMandate.md)
-
-- [ 루프에서 클로져 이용하기 ](https://github.com/leehosu/WebStudy/blob/master/JavaScript/Interview/JS_Closer.md)
-
-- [ 디바운싱 ](https://github.com/leehosu/WebStudy/blob/master/JavaScript/Interview/JS_Debouncing.md)
-
-- [ OOP ](https://github.com/leehosu/WebStudy/blob/master/JavaScript/Interview/JS_OOP.md)
-
-- [ 여러 개념들 ](https://github.com/leehosu/WebStudy/blob/master/JavaScript/Interview/JS_ETC.md)
-
-- [ Promise ](https://github.com/leehosu/WebStudy/blob/master/JavaScript/Interview/JS_Promise.md)
